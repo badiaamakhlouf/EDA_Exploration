@@ -1,1 +1,2 @@
-# Exploratory Data Analysis
+# Exploratory Data Analysis (EDA)
+EDA helps identify most relevant features among the existing ones and it helps determine next steps to perform before applying any type of machine learning algorithm. Next steps could be related to data manipulation and transformation, or it could be related to increasing the size of input data set via exploring new data sources. Briefly, EDA helps data scientist decide what they need to get the required answers and make it easy to discover patterns, trends, anomalies etc. 
