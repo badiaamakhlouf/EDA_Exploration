@@ -14,7 +14,7 @@ In our Jupyter notebook we had accomplished the next steps, respectively :
     -  Values Count
     -  Data sampling
     -  Data Grouping using `groupby` 
-    -  Data filtering : using & (and), |(or) operators
+    -  Data filtering : by single or by multiple conditions using logical operatore & (and), |(or).
 -  Data analysis
      - Univariate Analysis : distplot and histplot
      - Bivariate Analysis
@@ -23,4 +23,6 @@ In our Jupyter notebook we had accomplished the next steps, respectively :
 -  Data visualization
      - `boxplot`
      - `histplot`
-     - Scatter plot 
+     - Scatter plot
+ 
+In addition, we can go deeper with data wrangling and perform more exploration via transforming some variables such as Changing to datetime format using `pd.to_datetime(data['DATE'], format='%b-%y')` etc.
