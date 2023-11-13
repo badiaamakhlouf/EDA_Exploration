@@ -7,14 +7,14 @@ In our Jupyter notebook we had accomplished the next steps, respectively :
 - Import the required libraries
 - Data reading
 - Data exploration
-    -  More information
-    -  Data frame shape
-    -  Columns names
-    -  Statistical summary
+    -  More information: `.info()`
+    -  Data frame shape: `.shape`
+    -  Columns names : useful for filtering data with columns values or selecting a subset of data `.names`
+    -  Statistical summary : `.describe()`
     -  Values Count
     -  Data sampling
-    -  Data Grouping using groupby
-    -  Data filtering
+    -  Data Grouping using `groupby` 
+    -  Data filtering : using & (and), |(or) operators
 -  Data analysis
      - Univariate Analysis : distplot and histplot
      - Bivariate Analysis
