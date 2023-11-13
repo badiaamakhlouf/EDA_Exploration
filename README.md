@@ -8,10 +8,13 @@ In our Jupyter notebook we had accomplished the next steps, respectively :
 - Data reading
 - Data exploration
     -  More information
-    -  Statistical description
-    -  Values Count
     -  Data frame shape
     -  Columns names
+    -  Statistical summary
+    -  Values Count
+    -  Data sampling
+    -  Data Grouping using groupby
+    -  Data filtering
 -  Data analysis
      - Univariate Analysis : distplot and histplot
      - Bivariate Analysis
