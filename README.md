@@ -21,3 +21,6 @@ In our Jupyter notebook we had accomplished the next steps, respectively :
      - Multivariate Analysis
        - Correlation matrix and heatmap
 -  Data visualization
+     - `boxplot`
+     - `histplot`
+     - Scatter plot 
